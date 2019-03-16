@@ -1,0 +1,12 @@
+julia 1.0
+Distributed
+StatsBase
+Distributions
+DataFrames
+SharedArrays
+Optim
+Roots
+LinearAlgebra
+ForwardDiff
+MCMCDiagnostics
+CSV
